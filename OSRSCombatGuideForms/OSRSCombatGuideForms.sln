@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSRSCombatGuideForms", "OSRSCombatGuideForms\OSRSCombatGuideForms.csproj", "{31636A38-4FDF-4E09-862D-5F7C1F94656C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSRSCombatGuide", "OSRSCombatGuide\OSRSCombatGuide.csproj", "{B472B855-CCE8-4F3C-90A2-3568861F6CCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31636A38-4FDF-4E09-862D-5F7C1F94656C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31636A38-4FDF-4E09-862D-5F7C1F94656C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31636A38-4FDF-4E09-862D-5F7C1F94656C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31636A38-4FDF-4E09-862D-5F7C1F94656C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B472B855-CCE8-4F3C-90A2-3568861F6CCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B472B855-CCE8-4F3C-90A2-3568861F6CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B472B855-CCE8-4F3C-90A2-3568861F6CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B472B855-CCE8-4F3C-90A2-3568861F6CCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E592624E-B7D3-451F-9917-DC6C62B7A34F}
+	EndGlobalSection
+EndGlobal

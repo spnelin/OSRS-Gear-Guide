@@ -1,0 +1,17 @@
+C:\Users\Kyou\source\repos\OSRSCombatGuideForms\OSRSCombatGuideForms\bin\Debug\OSRSCombatGuideForms.exe.config
+C:\Users\Kyou\source\repos\OSRSCombatGuideForms\OSRSCombatGuideForms\bin\Debug\OSRSCombatGuideForms.exe
+C:\Users\Kyou\source\repos\OSRSCombatGuideForms\OSRSCombatGuideForms\bin\Debug\OSRSCombatGuideForms.pdb
+C:\Users\Kyou\source\repos\OSRSCombatGuideForms\OSRSCombatGuideForms\obj\Debug\OSRSCombatGuideForms.csprojAssemblyReference.cache
+C:\Users\Kyou\source\repos\OSRSCombatGuideForms\OSRSCombatGuideForms\obj\Debug\OSRSCombatGuideForms.GearGuide.resources
+C:\Users\Kyou\source\repos\OSRSCombatGuideForms\OSRSCombatGuideForms\obj\Debug\OSRSCombatGuideForms.Properties.Resources.resources
+C:\Users\Kyou\source\repos\OSRSCombatGuideForms\OSRSCombatGuideForms\obj\Debug\OSRSCombatGuideForms.csproj.GenerateResource.cache
+C:\Users\Kyou\source\repos\OSRSCombatGuideForms\OSRSCombatGuideForms\obj\Debug\OSRSCombatGuideForms.csproj.CoreCompileInputs.cache
+C:\Users\Kyou\source\repos\OSRSCombatGuideForms\OSRSCombatGuideForms\obj\Debug\OSRSCombatGuideForms.exe
+C:\Users\Kyou\source\repos\OSRSCombatGuideForms\OSRSCombatGuideForms\obj\Debug\OSRSCombatGuideForms.pdb
+C:\Users\Kyou\source\repos\OSRSCombatGuideForms\OSRSCombatGuideForms\bin\Debug\OSRSCombatGuide.dll
+C:\Users\Kyou\source\repos\OSRSCombatGuideForms\OSRSCombatGuideForms\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Kyou\source\repos\OSRSCombatGuideForms\OSRSCombatGuideForms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kyou\source\repos\OSRSCombatGuideForms\OSRSCombatGuideForms\bin\Debug\OSRSCombatGuide.pdb
+C:\Users\Kyou\source\repos\OSRSCombatGuideForms\OSRSCombatGuideForms\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Kyou\source\repos\OSRSCombatGuideForms\OSRSCombatGuideForms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kyou\source\repos\OSRSCombatGuideForms\OSRSCombatGuideForms\obj\Debug\OSRSCombatGuideForms.csproj.CopyComplete
